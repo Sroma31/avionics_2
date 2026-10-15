@@ -10,3 +10,6 @@ def filtra_controlli_non_validi (lista_aeromobili):
     return [a for a in lista_aeromobili if not a["controlli_ok"]]
 
 
+# WIP: Istruzioni di avvio per l'utente
+# TODO: Aggiungere menu interattivo per la scelta dell'ispezione
+# def mostra_menu():
